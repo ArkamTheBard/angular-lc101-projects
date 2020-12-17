@@ -1,0 +1,9 @@
+hr{
+    background-color: lightsalmon;
+    border-width: 5px;
+}
+
+fav-links{
+    display: block;
+    text-align: center;
+}

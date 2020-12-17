@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/08/TidalDisruptions_A_1440x810.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
