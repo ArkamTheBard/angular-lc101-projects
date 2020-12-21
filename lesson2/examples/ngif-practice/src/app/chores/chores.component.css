@@ -6,7 +6,19 @@
     color: #3c79b8;
 }
 
+h1{
+    text-decoration: underline;
+    color: gold;
+    text-align: center;
+}
+
 h3 {
+    text-align: center;
+}
+
+p{
+    font-size: x-large;
+    color: limegreen;
     text-align: center;
 }
 
